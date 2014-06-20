@@ -1,4 +1,4 @@
-wordpress_techtalk
+WordPress Tech Talk 19 juni: Advanced Custom Fields
 ==================
 
 Dit is het voorbeeld project van de WordPress Tech Talk van 19 juni 2014 over [Advanced Custom Fields](http://www.advancedcustomfields.com).
