@@ -43,5 +43,9 @@ Direct in je theme wegschrijven:
 wp scaffold post-type project --theme
 ```
 
+## Field Snitch
+
+[Field Snitch](https://wordpress.org/plugins/advanced-custom-fields-field-snitch/) is een super handige devtool om snel de veldnamen uit te vinden. `2x ESC` drukken in de backend en je ziet de ACF veldnamen.
+
 
 ## Tot de volgende keer!
