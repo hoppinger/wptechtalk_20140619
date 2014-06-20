@@ -29,3 +29,4 @@ Deze plugin zul je zelf moeten installeren om het Repeater voorbeeld te kunnen b
 
 Het `wp acf` command voor WP-CLI komt uit de [advanced-custom-fields-wp-cli plugin](https://github.com/hoppinger/advanced-custom-fields-wpcli) De code is in dit project ook toegevoegd, maar je kunt op de github pagina kijken hoe de code eruit ziet. Mocht je verbetering of suggesties hebben: het is open source dus doe een pull request! :)
 
+## Tot de volgende keer!
