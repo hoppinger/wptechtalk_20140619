@@ -29,4 +29,19 @@ Deze plugin zul je zelf moeten installeren om het Repeater voorbeeld te kunnen b
 
 Het `wp acf` command voor WP-CLI komt uit de [advanced-custom-fields-wp-cli plugin](https://github.com/hoppinger/advanced-custom-fields-wpcli) De code is in dit project ook toegevoegd, maar je kunt op de github pagina kijken hoe de code eruit ziet. Mocht je verbetering of suggesties hebben: het is open source dus doe een pull request! :)
 
+## Scaffolding
+
+Na de talk kwam de vraag over Post Types en Taxonomies. Wij gebruiken voor het aanmaken altijd het `wp scaffold` command. Installeer WP-CLI en je hebt direct beschikking over dit handige command om snel en consistente code te genereren.
+
+Naar de STDOUT:
+```
+wp scaffold post-type project
+```
+
+Direct in je theme wegschrijven:
+```
+wp scaffold post-type project --theme
+```
+
+
 ## Tot de volgende keer!
